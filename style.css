@@ -1,0 +1,46 @@
+body {
+  background: #050517;
+}
+h2 {
+  color: coral;
+}
+p {
+  color: #0f0f0f;
+}
+
+.me {
+  color: rgb(52, 238, 176);
+}
+nav a {
+  color: coral;
+}
+h2 a {
+  color: #fcba04;
+}
+footer {
+  color: rgba(52, 238, 176);
+}
+#img-index {
+  height: 400px;
+}
+.jump {
+  height: 400px;
+}
+.top {
+  color: white;
+}
+.tools {
+  color: #fcba04;
+}
+.title1 {
+  color: rgba(52, 238, 176);
+}
+p {
+  color: white;
+}
+p a {
+  color: #fcba04;
+}
+.title-css {
+  color: #fcba04;
+}
